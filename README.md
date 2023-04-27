@@ -1,7 +1,7 @@
 # Injectable components
 
  - Components that separate style and function
- - Injecting style components into functional`(core)` components
+ - Injecting functional components into style components
 
 # Main Idea
 ## [Slot](https://www.radix-ui.com/docs/primitives/utilities/slot)
